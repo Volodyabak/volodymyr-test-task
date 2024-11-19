@@ -35,13 +35,13 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link href="/contact" className="hover:underline">
-              Contact Us
+            <Link href="/assigneTask" className="hover:underline">
+              Assigne Task
             </Link>
           </li>
           <li>
-            <Link href="/userProfile" className="hover:underline">
-              User Profile
+            <Link href="/contact" className="hover:underline">
+              Contact Us
             </Link>
           </li>
         </ul>
